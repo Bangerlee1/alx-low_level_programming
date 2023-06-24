@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * prints_diagnonal - Draws a diagonal lines according parameter
- * @n: The number of times to print diagonal line
+ * print_diagonal - draws a diagonal line on the terminal
+ * @n: number of times the character \ should be printed
  * Description: A function that draws a diagonal line on the terminal
  * according to the numbers of times to orint diagonal line
+ *
  * Return: empty
  */
 
